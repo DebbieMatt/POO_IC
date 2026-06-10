@@ -5,8 +5,6 @@ Repositório com exercícios e projetos desenvolvidos ao longo da disciplina de 
 ![Linguagem](https://img.shields.io/static/v1?label=Java&message=language&color=orange&style=for-the-badge&logo=java)
 ![Status](https://img.shields.io/static/v1?label=STATUS&message=EM%20ANDAMENTO&color=yellow&style=for-the-badge)
 
----
-
 ## 🎯 Sobre a Disciplina
 
 A disciplina tem por objetivo auxiliar os(as) alunos(as) a compreenderem os principais conceitos relacionados ao paradigma de **Programação Orientada a Objetos (POO)**, a citar:
@@ -20,8 +18,6 @@ Tudo isso aplicado ao **Java**, linguagem reconhecida como fortemente orientada 
 
 Também faz parte do objetivo da disciplina capacitar os(as) alunos(as) a aplicar esses conceitos em um **cenário próximo ao mercado real**, com a criação de uma aplicação Java que possua **interface gráfica** e realize **conexão com um banco de dados (SGBD)**.
 
----
-
 ## 📂 Estrutura do Repositório
 
 | Pasta | Tipo | Conteúdo |
@@ -32,8 +28,6 @@ Também faz parte do objetivo da disciplina capacitar os(as) alunos(as) a aplica
 | [`ATV_01`](./ATV_01) | Exercício introdutório | Problema de permutação de vagões usando `Stack` — resolução estilo Beecrowd |
 | [`Cadastrex`](./Cadastrex) | Projeto | Classes, objetos, herança e encapsulamento: `Circulo`, `Conta`, `Estudante`, `Funcionario` e `Gerente` |
 | [`Mercadex`](./Mercadex/Mercadex) | Projeto | Aplicação com interface gráfica (`JFrame`) e conexão com banco de dados |
-
----
 
 ## 🗂️ Detalhes
 
@@ -51,8 +45,6 @@ Exercício com variáveis, formatação de saída com `printf`, cálculo de IMC,
 #### [ATV_01](./ATV_01)
 Solução para um problema de estrutura de dados: verificação de permutações possíveis de vagões de trem utilizando `Stack`. Modelo de entrada/saída no estilo Beecrowd.
 
----
-
 ### 📁 [Cadastrex](./Cadastrex)
 
 Projeto que aplica os pilares da POO na prática. Contém as classes:
@@ -61,13 +53,9 @@ Projeto que aplica os pilares da POO na prática. Contém as classes:
 - **`Conta`** — operações bancárias (depósito, saque, saldo insuficiente)
 - **`Pessoa`** → **`Estudante`**, **`Funcionario`**, **`Gerente`** — demonstração de **herança** e **polimorfismo**
 
----
-
 ### 📁 [Mercadex](./Mercadex/Mercadex)
 
 Projeto de maior complexidade, com **interface gráfica** construída com `JFrame` (Swing) e integração com **banco de dados** via SGBD. Representa o cenário mais próximo de uma aplicação real, conforme proposto pela disciplina.
-
----
 
 ## 💻 Pré-requisitos
 
@@ -76,9 +64,7 @@ Antes de começar, verifique se você atendeu aos seguintes requisitos:
 - **JDK** instalado (versão 8 ou superior) — [Baixar aqui](https://www.oracle.com/java/technologies/downloads/)
 - Uma IDE de sua preferência: [IntelliJ IDEA](https://www.jetbrains.com/idea/), [NetBeans](https://netbeans.apache.org/) ou [VS Code](https://code.visualstudio.com/)
 - Um **SGBD** instalado para o projeto Mercadex (ex: [MySQL](https://www.mysql.com/) ou [PostgreSQL](https://www.postgresql.org/))
-- Sistema operacional: `Windows`, `Linux` ou `macOS`
-
----
+- Sistema operacional: `Windows`, `Linux` ou `macOS`.
 
 ## 🚀 Clonando o Repositório
 
@@ -89,8 +75,6 @@ git clone https://github.com/DebbieMatt/<nome-do-repositorio>.git
 Para os projetos NetBeans (`Cadastrex` e `Mercadex`), abra a pasta diretamente no NetBeans via **File > Open Project**.
 
 Para os exercícios avulsos, basta abrir e executar o arquivo `Main.java` na sua IDE.
-
----
 
 ## 🤝 Colaboradores
 
@@ -104,8 +88,6 @@ Para os exercícios avulsos, basta abrir e executar o arquivo `Main.java` na sua
     </td>
   </tr>
 </table>
-
----
 
 ## 😄 Seja um Contribuidor
 
